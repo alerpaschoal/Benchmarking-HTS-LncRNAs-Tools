@@ -6,7 +6,7 @@ The correct annotation of non-coding RNAs, especially long non-coding RNAs (lncR
 
 ## File descriptions:
 
-- [gencode_v21_intersection_by_tools_coding.csv.csv](https://github.com/alerpaschoal/Benchmarking-HTS-LncRNAs-Tools/raw/master/gencode_v21_intersection_by_tools_coding.csv.csv): Sequences classified as coding by the tools in GENCODE dataset version 21;
+- [gencode_v21_intersection_by_tools_coding.csv](https://github.com/alerpaschoal/Benchmarking-HTS-LncRNAs-Tools/raw/master/gencode_v21_intersection_by_tools_coding.csv): Sequences classified as coding by the tools in GENCODE dataset version 21;
 - [gencode_v38_intersection_by_tools_coding.csv](https://github.com/alerpaschoal/Benchmarking-HTS-LncRNAs-Tools/raw/master/gencode_v38_intersection_by_tools_coding.csv): Sequences classified as coding by the tools in GENCODE dataset version 38;
 
 ## Team
