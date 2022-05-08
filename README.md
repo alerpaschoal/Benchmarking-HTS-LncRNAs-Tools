@@ -13,6 +13,7 @@ The correct annotation of non-coding RNAs, especially long non-coding RNAs (lncR
 
 - Alisson Gaspar Chiquitto
 - Lucas Otávio Leme Silva
+- Liliane Santana Oliveira
 - Douglas Silva Domingues
 - Alexandre Rossi Paschoal
 
