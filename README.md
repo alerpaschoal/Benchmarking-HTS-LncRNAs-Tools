@@ -2,7 +2,9 @@
 
 ## Abstract
 
-The correct annotation of non-coding RNAs, especially long non-coding RNAs (lncRNAs), is still an important challenge in genome analyses. One crucial issue in lncRNA transcript annotation is the transcriptome resource that supports lncRNA loci. Long-read technologies now bring the potential to improve the quality of transcriptome annotation. Consequently, long non-coding RNAs (lncRNA) are probably the most benefited class of transcripts that would have improved annotation using this novel technology. However, there is a gap regarding benchmarking studies that highlighted if the direct use of lncRNA predictors in long-reads makes more precise identification of these transcripts. Considering that these lncRNA tools were not trained with these reads, we want to address: how is the performance of these tools? Are they also able to efficiently identify lncRNAs? We could provide evidence of where and how to make potential better approaches for the lncRNA annotation by understanding these issues.
+The correct annotation of non-coding RNAs, especially long non-coding RNAs (lncRNAs), is still a critial challenge in genome analyses due to their highly heterogeneous characteristics. Due to this heterogeneity, transcriptome data sources can be an important factor that might affect lncRNA annotation quality. Long-read technologies now bring the potential to improve the quality of transcriptome annotation, specially in genome entities that are not ``classic'' coding genes. However, there is a gap regarding benchmarking studies that test if the direct use of lncRNA predictors in long-reads makes more precise identification of these transcripts. Considering that lncRNA identification tools were not trained with these reads, our study want to address: how is the performance of these tools? Are they also able to efficiently identify lncRNAs? For this, we used short and long-read data from human  and selected plan ts transcriptomes to test our questions. We can provide evidence of where and how to make potential better approaches for the lncRNA annotation by understanding these issues.
+
+Keywords: Non-coding RNAs, high-throughput sequencing technologies, coding, methods, benchmarking, tools, NGS, transcripts
 
 ## File descriptions:
 
@@ -11,10 +13,10 @@ The correct annotation of non-coding RNAs, especially long non-coding RNAs (lncR
 
 ## Team
 
-- Alisson Gaspar Chiquitto
+- Alisson Gaspar Chiquitto - <https://github.com/chiquitto>
 - Lucas Otávio Leme Silva
 - Liliane Santana Oliveira
 - Douglas Silva Domingues
-- Alexandre Rossi Paschoal
+- Alexandre Rossi Paschoal - <https://github.com/alerpaschoal>
 
-Contact: paschoal@utfpr.edu.br
+Contact: <paschoal@utfpr.edu.br>
